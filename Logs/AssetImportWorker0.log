@@ -1,0 +1,319 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.4f1 (35713cd46cd7) revision 3502396'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 14204 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/大学/大四下/游戏制作/HIT2023暑期集训/MobiusTec
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+10790
+Successfully changed project path to: D:/大学/大四下/游戏制作/HIT2023暑期集训/MobiusTec
+D:/大学/大四下/游戏制作/HIT2023暑期集训/MobiusTec
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [52552] Host "[IP] 10.100.40.132 [Port] 0 [Flags] 2 [Guid] 709115340 [EditorId] 709115340 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-T9L99N8U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [52552] Host "[IP] 10.100.40.132 [Port] 0 [Flags] 2 [Guid] 709115340 [EditorId] 709115340 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-T9L99N8U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 17.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.4f1 (35713cd46cd7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/大学/大四下/游戏制作/HIT2023暑期集训/MobiusTec/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f9d)
+    Vendor:   NVIDIA
+    VRAM:     3952 MB
+    Driver:   31.0.15.2656
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.058983 seconds.
+- Loaded All Assemblies, in  0.752 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.394 seconds
+Domain Reload Profiling: 1133ms
+	BeginReloadAssembly (265ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (177ms)
+	LoadAllAssembliesAndSetupDomain (222ms)
+		LoadAssemblies (252ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (191ms)
+			TypeCache.Refresh (189ms)
+				TypeCache.ScanAssembly (165ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (395ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (312ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (31ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (190ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\大学\大四下\游戏制作\HIT2023暑期集训\MobiusTec\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\大学\大四下\游戏制作\HIT2023暑期集训\MobiusTec\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.383 seconds
+Refreshing native plugins compatible for Editor in 3.04 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.024 seconds
+Domain Reload Profiling: 2395ms
+	BeginReloadAssembly (281ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (89ms)
+	LoadAllAssembliesAndSetupDomain (931ms)
+		LoadAssemblies (647ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (437ms)
+			TypeCache.Refresh (414ms)
+				TypeCache.ScanAssembly (386ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1025ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (822ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (104ms)
+			ProcessInitializeOnLoadAttributes (615ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (48ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 20.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3121 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (56.2 KB). Loaded Objects now: 3587.
+Memory consumption went from 118.1 MB to 118.0 MB.
+Total: 62.822700 ms (FindLiveObjects: 17.264200 ms CreateObjectMapping: 0.334300 ms MarkObjects: 29.766700 ms  DeleteObjects: 15.455500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 325114.688066 seconds.
+  path: Assets/building/build/ceiling/ceiling1/230717_celling_ins.tga
+  artifactKey: Guid(8a9eb67a88c561f44a4775472ccddcb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling1/230717_celling_ins.tga using Guid(8a9eb67a88c561f44a4775472ccddcb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab260c8d0938173e7638606b20ef462') in 0.410516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/building/build/ceiling/ceiling1/61_DefaultMaterial_Normal.png
+  artifactKey: Guid(bd62b6e3a13d6c14383d885a9d116420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling1/61_DefaultMaterial_Normal.png using Guid(bd62b6e3a13d6c14383d885a9d116420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b86e5bef0b4a715e34e22f4b9340d323') in 0.053443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/building/build/ceiling/ceiling1/六边形.fbx
+  artifactKey: Guid(06e28f312c0e9b0458acc6f32106681a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling1/六边形.fbx using Guid(06e28f312c0e9b0458acc6f32106681a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c96374c43d6b23897796d2e79a75de') in 0.109374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/building/build
+  artifactKey: Guid(d3178f095433c6e4b817c5b8d316207c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build using Guid(d3178f095433c6e4b817c5b8d316207c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c16aceb7834ce3bbb0d12c1f2f4372e6') in 0.000664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/building/build/rim.tga
+  artifactKey: Guid(5d9f65f698034734899f2ba450ac7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/rim.tga using Guid(5d9f65f698034734899f2ba450ac7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2f484213cedda48fb4d96831114265') in 0.011439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/building/build/ceiling/ceiling1/230717_celling_Diffuse.tga
+  artifactKey: Guid(675c8cab332bf5d42906743b4baa269f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling1/230717_celling_Diffuse.tga using Guid(675c8cab332bf5d42906743b4baa269f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de20dc025d0527a1e6a71ed158eb2452') in 0.015924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/building/build/ceiling
+  artifactKey: Guid(2074e505867781d4a87e5c1b03c86d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling using Guid(2074e505867781d4a87e5c1b03c86d1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7faf706a85d80b86328bd8f7f445289') in 0.000695 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/building/build/ceiling/ceiling1/ceil.fbx
+  artifactKey: Guid(292d249dc2ff51341b9b8e1b4f6f5848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling1/ceil.fbx using Guid(292d249dc2ff51341b9b8e1b4f6f5848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2248845c7731c2339f06c74579c5002') in 0.016123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 43.095136 seconds.
+  path: Assets/building/build/ceiling/ceiling2/230717_celling2_Diffuse.tga
+  artifactKey: Guid(a20ae4e37fb01774ebaf91d345ddc3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/ceiling/ceiling2/230717_celling2_Diffuse.tga using Guid(a20ae4e37fb01774ebaf91d345ddc3e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65c10b72ec584bb4fea8f0c974a372e') in 0.021613 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 19.867473 seconds.
+  path: Assets/building/building_pr/box2 Variant.prefab
+  artifactKey: Guid(726cf5790cfd81649a53f45e037a6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/building_pr/box2 Variant.prefab using Guid(726cf5790cfd81649a53f45e037a6a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbd0c9bb17189da797ae2caced55280') in 0.175571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 38
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/building/building_pr/ceil Variant.prefab
+  artifactKey: Guid(8d957988bf0eb11439c349733f2b3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/building_pr/ceil Variant.prefab using Guid(8d957988bf0eb11439c349733f2b3e4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e86ec4de11f997d2bf4ee3a7f4dee1e') in 0.032677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/building/building_pr/ceil (1) Variant.prefab
+  artifactKey: Guid(3ba75546fe658634795f219949b159f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/building_pr/ceil (1) Variant.prefab using Guid(3ba75546fe658634795f219949b159f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7df6db969980b880797036baf1c75ac') in 0.038039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/building/building_pr/road Variant.prefab
+  artifactKey: Guid(ed52924991475ab4db7b816483872338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/building_pr/road Variant.prefab using Guid(ed52924991475ab4db7b816483872338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b497915eb11e470f73925f9fae3700f') in 0.055664 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 67.462815 seconds.
+  path: Assets/building/build/road/Diffuse_Roughness.tga
+  artifactKey: Guid(c9f6ad1936179e54ca6cc6c49acb09fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/road/Diffuse_Roughness.tga using Guid(c9f6ad1936179e54ca6cc6c49acb09fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a71e9b0762b35b32800aa12133b2919') in 0.012851 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/building/build/road/无法线.mat
+  artifactKey: Guid(1c4ee968ea9051b419694d41e8affc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/road/无法线.mat using Guid(1c4ee968ea9051b419694d41e8affc82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e05cddeb0bc4f220019333966dad4a') in 0.051813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/building/build/road/法线是墙的，随便偏移加点纹理好像还行.mat
+  artifactKey: Guid(783fe9064b6fee94fa908419fae4e4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/road/法线是墙的，随便偏移加点纹理好像还行.mat using Guid(783fe9064b6fee94fa908419fae4e4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b780ab6f026c2e700283f3ee8068d89') in 0.025795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/building/build/road/Incolor_Specular.tga
+  artifactKey: Guid(033d92506f3c32f49ab642585117f0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/building/build/road/Incolor_Specular.tga using Guid(033d92506f3c32f49ab642585117f0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5183cfc7962bea669193aa435f680e10') in 0.013310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

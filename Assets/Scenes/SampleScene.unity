@@ -1129,15 +1129,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7973739379613867723, guid: 774417e27e6e5a344a38ef96575f215c, type: 3}
       propertyPath: MonsterOnce
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7973739379613867723, guid: 774417e27e6e5a344a38ef96575f215c, type: 3}
       propertyPath: MonsterTime
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7973739379613867723, guid: 774417e27e6e5a344a38ef96575f215c, type: 3}
       propertyPath: MonsterIndex
-      value: 4
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7973739379613867723, guid: 774417e27e6e5a344a38ef96575f215c, type: 3}
       propertyPath: monsterPrefab
@@ -1286,11 +1286,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5560813065053249486, guid: f1cdefd5082f5994880c2b12f543793b, type: 3}
       propertyPath: MonsterTime
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5560813065053249486, guid: f1cdefd5082f5994880c2b12f543793b, type: 3}
       propertyPath: MonsterIndex
-      value: 5
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5560813065053249486, guid: f1cdefd5082f5994880c2b12f543793b, type: 3}
       propertyPath: monsterPrefab
@@ -1310,7 +1310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6385019903332958038, guid: f1cdefd5082f5994880c2b12f543793b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.77
+      value: -18.97
       objectReference: {fileID: 0}
     - target: {fileID: 6385019903332958038, guid: f1cdefd5082f5994880c2b12f543793b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1855,6 +1855,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 647749915}
+    - target: {fileID: 9085442325165245841, guid: 0aef3a6ba0b797a45929050b3f40940d, type: 3}
+      propertyPath: Speed
+      value: 2.5
+      objectReference: {fileID: 0}
     - target: {fileID: 9085442325165245841, guid: 0aef3a6ba0b797a45929050b3f40940d, type: 3}
       propertyPath: Sphere
       value: 

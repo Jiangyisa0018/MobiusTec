@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ff542990e400a924aaaf5f750b69c9eb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BasicColAndRoughnessTex: {instanceID: 0}
+  - _InteriorColAndSpecularTex: {instanceID: 0}
+  - _NoiseTex: {instanceID: 0}
+  - _RimLightSampler: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
